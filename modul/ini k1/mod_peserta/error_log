@@ -1,0 +1,515 @@
+[10-Feb-2018 07:08:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 07:08:55 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 07:08:55 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 07:08:55 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 07:17:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 07:17:58 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 07:17:58 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 07:17:58 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 07:19:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 07:19:15 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 07:19:15 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 07:19:15 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 07:20:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 07:20:19 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 07:20:19 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 07:20:19 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 07:21:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 07:21:50 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 07:21:50 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 07:21:50 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 07:21:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 07:22:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 07:23:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 07:23:43 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 07:23:43 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 07:23:43 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 07:25:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 07:25:32 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 07:25:32 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 07:25:32 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 07:27:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 07:27:20 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 07:27:20 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 07:27:20 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 07:28:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 07:28:00 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 07:28:00 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 07:28:00 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 07:29:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 07:29:03 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 07:29:03 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 07:29:03 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 07:30:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 07:30:09 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 07:30:09 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 07:30:09 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 07:31:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 07:31:05 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 07:31:05 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 07:31:05 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 07:37:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 07:37:49 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 07:37:49 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 07:37:49 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 07:39:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 07:39:22 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 07:39:22 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 07:39:22 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 07:41:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 07:41:29 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 07:41:29 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 07:41:29 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 07:42:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 07:42:46 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 07:42:46 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 07:42:46 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 07:44:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 07:44:16 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 07:44:16 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 07:44:16 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 07:45:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 07:45:14 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 07:45:14 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 07:45:14 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 07:46:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 07:46:12 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 07:46:12 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 07:46:12 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 07:47:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 07:47:12 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 07:47:12 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 07:47:12 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 07:48:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 07:48:50 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 07:48:50 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 07:48:50 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 07:51:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 07:51:28 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 07:51:28 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 07:51:28 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 07:52:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 07:52:40 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 07:52:40 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 07:52:40 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 07:54:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 07:54:17 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 07:54:17 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 07:54:17 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 07:56:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 07:56:13 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 07:56:13 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 07:56:13 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 07:57:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 07:57:13 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 07:57:13 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 07:57:13 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 07:58:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 07:58:09 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 07:58:09 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 07:58:09 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 07:59:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 07:59:06 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 07:59:06 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 07:59:06 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 08:00:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:00:01 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 08:00:01 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 08:00:01 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 08:01:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:01:13 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 08:01:13 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 08:01:13 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 08:02:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:02:00 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 08:02:00 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 08:02:00 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 08:02:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:02:53 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 08:02:53 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 08:02:53 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 08:03:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:03:47 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 08:03:47 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 08:03:47 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 08:04:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:04:34 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 08:04:34 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 08:04:34 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 08:05:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:05:14 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 08:05:14 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 08:05:14 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 08:06:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:06:23 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 08:06:23 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 08:06:23 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 08:07:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:07:03 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 08:07:03 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 08:07:03 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 08:07:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:07:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:07:45 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 08:07:45 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 08:07:45 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 08:09:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:09:49 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 08:09:49 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 08:09:49 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 08:10:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:10:50 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 08:10:50 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 08:10:50 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 08:11:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:11:27 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 08:11:27 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 08:11:27 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 08:12:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:12:14 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 08:12:14 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 08:12:14 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 08:13:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:13:27 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 08:13:27 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 08:13:27 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 08:14:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:14:15 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 08:14:15 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 08:14:15 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 08:15:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:15:03 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 08:15:03 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 08:15:03 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 08:16:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:16:04 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 08:16:04 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 08:16:04 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 08:17:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:17:04 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 08:17:04 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 08:17:04 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 08:18:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:18:20 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 08:18:20 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 08:18:20 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 08:19:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:19:09 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 08:19:09 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 08:19:09 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 08:20:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:20:03 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:20:03 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:20:03 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:21:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:21:22 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 08:21:22 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 08:21:22 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 08:22:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:22:10 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 08:22:10 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 08:22:10 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 08:22:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:22:41 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 08:22:41 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 08:22:41 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 08:23:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:23:42 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 08:23:42 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 08:23:42 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 08:24:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:24:32 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 08:24:32 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 08:24:32 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 08:25:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:25:02 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 08:25:02 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 08:25:02 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 08:26:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:26:03 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 08:26:03 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 08:26:03 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 08:26:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:26:39 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 08:26:39 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 08:26:39 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 08:27:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:27:38 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 08:27:38 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 08:27:38 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 08:28:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:28:17 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 08:28:17 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 08:28:17 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 08:29:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:29:25 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 08:29:25 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 08:29:25 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 08:30:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:30:38 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 08:30:38 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 08:30:38 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 08:31:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:31:33 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:31:33 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:31:33 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:32:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:32:05 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:32:05 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:32:05 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:32:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:32:21 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:32:21 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:32:21 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:32:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:32:48 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:32:48 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:32:48 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:33:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:33:38 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:33:38 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:33:38 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:33:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:33:58 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:33:58 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:33:58 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:34:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:34:46 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:34:46 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:34:46 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:35:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:35:02 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:35:02 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:35:02 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:35:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:35:21 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:35:21 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:35:21 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:35:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:35:37 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:35:37 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:35:37 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:35:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:35:54 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:35:54 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:35:54 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:36:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:36:08 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:36:08 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:36:08 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:36:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:36:28 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:36:28 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:36:28 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:36:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:36:47 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:36:47 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:36:47 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:37:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:37:18 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:37:18 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:37:18 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:37:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:37:40 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:37:40 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:37:40 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:38:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:38:15 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:38:15 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:38:15 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:38:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:38:32 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:38:32 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:38:32 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:39:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:39:03 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:39:03 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:39:03 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:39:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:39:22 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:39:22 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:39:22 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:39:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:39:45 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:39:45 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:39:45 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:40:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:40:06 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:40:06 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:40:06 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:40:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:40:24 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:40:24 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:40:24 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:40:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:40:39 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:40:39 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:40:39 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:40:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:40:54 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:40:54 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:40:54 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:41:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:41:10 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:41:10 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:41:10 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:41:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:41:25 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:41:25 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:41:25 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:41:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:41:53 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:41:53 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:41:53 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:42:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:42:11 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:42:11 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:42:11 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:42:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:42:33 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:42:33 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:42:33 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:42:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:42:48 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:42:48 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:42:48 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:43:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:43:03 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:43:03 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:43:03 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:43:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:43:16 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:43:16 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:43:16 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:43:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:43:33 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:43:33 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:43:33 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:43:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:43:49 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:43:49 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:43:49 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:44:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:44:03 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:44:03 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:44:03 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:44:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:44:23 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:44:23 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:44:23 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:44:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:44:39 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:44:39 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:44:39 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:44:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:44:54 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:44:54 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:44:54 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:45:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:45:07 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:45:07 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:45:07 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:45:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:45:23 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:45:23 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:45:23 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:45:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:45:38 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:45:38 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:45:38 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:50:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:50:52 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:50:52 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:50:52 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:51:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:51:12 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:51:12 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:51:12 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:51:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:51:30 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:51:30 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:51:30 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:51:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:51:53 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:51:53 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:51:53 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:52:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:52:07 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:52:07 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:52:07 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:52:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:52:24 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:52:24 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:52:24 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:52:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:52:42 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:52:42 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:52:42 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:52:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:52:55 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:52:55 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:52:55 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:53:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:53:14 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:53:14 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:53:14 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:53:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:53:38 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:53:38 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:53:38 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:53:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:53:57 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:53:57 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:53:57 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:54:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:54:15 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:54:15 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:54:15 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:54:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:54:33 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:54:33 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:54:33 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:54:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:54:47 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:54:47 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:54:47 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:55:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:55:15 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:55:15 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:55:15 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:55:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:55:43 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:55:43 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:55:43 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:56:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:56:12 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:56:12 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:56:12 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 08:56:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 08:56:36 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 08:56:36 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 08:56:36 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 09:10:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 09:10:54 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 58
+[10-Feb-2018 09:10:54 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 09:10:54 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 16
+[10-Feb-2018 09:11:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 09:11:05 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 09:11:05 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 09:11:05 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 09:11:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 09:11:22 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 09:11:22 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 09:11:22 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 09:29:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 09:29:53 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 09:29:53 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 09:29:53 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 09:30:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 09:30:13 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 09:30:13 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 09:30:13 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52
+[10-Feb-2018 09:32:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 09:32:54 UTC] PHP Notice:  Use of undefined constant update - assumed 'update' in /home/u7461603/public_html/penilaiantot/modul/mod_peserta/aksi_peserta.php on line 82
+[10-Feb-2018 09:32:54 UTC] PHP Notice:  Undefined index: id_peserta in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 47
+[10-Feb-2018 09:32:54 UTC] PHP Notice:  Undefined index: wilayah in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 52

@@ -1,0 +1,20 @@
+[10-Feb-2018 09:03:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 09:03:13 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_userkategorinilai/aksi_userkategorinilai.php on line 58
+[10-Feb-2018 09:03:13 UTC] PHP Notice:  Undefined index: id_userkategorinilai in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 09:03:13 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 12
+[10-Feb-2018 09:03:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 09:03:43 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_userkategorinilai/aksi_userkategorinilai.php on line 58
+[10-Feb-2018 09:03:43 UTC] PHP Notice:  Undefined index: id_userkategorinilai in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 09:03:43 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 12
+[10-Feb-2018 09:03:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 09:03:52 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_userkategorinilai/aksi_userkategorinilai.php on line 58
+[10-Feb-2018 09:03:52 UTC] PHP Notice:  Undefined index: id_userkategorinilai in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 09:03:52 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 12
+[10-Feb-2018 09:04:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 09:04:00 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_userkategorinilai/aksi_userkategorinilai.php on line 58
+[10-Feb-2018 09:04:00 UTC] PHP Notice:  Undefined index: id_userkategorinilai in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 09:04:00 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 12
+[10-Feb-2018 09:04:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 09:04:07 UTC] PHP Notice:  Use of undefined constant isi - assumed 'isi' in /home/u7461603/public_html/penilaiantot/modul/mod_userkategorinilai/aksi_userkategorinilai.php on line 58
+[10-Feb-2018 09:04:07 UTC] PHP Notice:  Undefined index: id_userkategorinilai in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 11
+[10-Feb-2018 09:04:07 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/u7461603/public_html/penilaiantot/config/fungsi_log.php on line 12

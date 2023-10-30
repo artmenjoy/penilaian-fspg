@@ -1,0 +1,153 @@
+[09-Feb-2018 06:57:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[09-Feb-2018 06:57:31 UTC] PHP Notice:  Use of undefined constant namauser - assumed 'namauser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 24
+[09-Feb-2018 06:57:31 UTC] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 24
+[09-Feb-2018 06:57:31 UTC] PHP Notice:  Use of undefined constant namalengkap - assumed 'namalengkap' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 25
+[09-Feb-2018 06:57:31 UTC] PHP Notice:  Use of undefined constant passuser - assumed 'passuser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 26
+[09-Feb-2018 06:57:31 UTC] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 26
+[09-Feb-2018 06:57:31 UTC] PHP Notice:  Use of undefined constant sessid - assumed 'sessid' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 27
+[09-Feb-2018 06:57:31 UTC] PHP Notice:  Use of undefined constant id_session - assumed 'id_session' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 27
+[09-Feb-2018 06:57:31 UTC] PHP Notice:  Use of undefined constant leveluser - assumed 'leveluser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 28
+[09-Feb-2018 06:57:31 UTC] PHP Notice:  Use of undefined constant userslevel - assumed 'userslevel' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 28
+[09-Feb-2018 06:59:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[09-Feb-2018 06:59:17 UTC] PHP Notice:  Use of undefined constant namauser - assumed 'namauser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 24
+[09-Feb-2018 06:59:17 UTC] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 24
+[09-Feb-2018 06:59:17 UTC] PHP Notice:  Use of undefined constant namalengkap - assumed 'namalengkap' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 25
+[09-Feb-2018 06:59:17 UTC] PHP Notice:  Use of undefined constant passuser - assumed 'passuser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 26
+[09-Feb-2018 06:59:17 UTC] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 26
+[09-Feb-2018 06:59:17 UTC] PHP Notice:  Use of undefined constant sessid - assumed 'sessid' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 27
+[09-Feb-2018 06:59:17 UTC] PHP Notice:  Use of undefined constant id_session - assumed 'id_session' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 27
+[09-Feb-2018 06:59:17 UTC] PHP Notice:  Use of undefined constant leveluser - assumed 'leveluser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 28
+[09-Feb-2018 06:59:17 UTC] PHP Notice:  Use of undefined constant userslevel - assumed 'userslevel' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 28
+[09-Feb-2018 07:05:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[09-Feb-2018 07:05:08 UTC] PHP Notice:  Use of undefined constant namauser - assumed 'namauser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 24
+[09-Feb-2018 07:05:08 UTC] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 24
+[09-Feb-2018 07:05:08 UTC] PHP Notice:  Use of undefined constant namalengkap - assumed 'namalengkap' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 25
+[09-Feb-2018 07:05:08 UTC] PHP Notice:  Use of undefined constant passuser - assumed 'passuser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 26
+[09-Feb-2018 07:05:08 UTC] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 26
+[09-Feb-2018 07:05:08 UTC] PHP Notice:  Use of undefined constant sessid - assumed 'sessid' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 27
+[09-Feb-2018 07:05:08 UTC] PHP Notice:  Use of undefined constant id_session - assumed 'id_session' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 27
+[09-Feb-2018 07:05:08 UTC] PHP Notice:  Use of undefined constant leveluser - assumed 'leveluser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 28
+[09-Feb-2018 07:05:08 UTC] PHP Notice:  Use of undefined constant userslevel - assumed 'userslevel' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 28
+[10-Feb-2018 07:05:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 07:05:51 UTC] PHP Notice:  Use of undefined constant namauser - assumed 'namauser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 24
+[10-Feb-2018 07:05:51 UTC] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 24
+[10-Feb-2018 07:05:51 UTC] PHP Notice:  Use of undefined constant namalengkap - assumed 'namalengkap' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 25
+[10-Feb-2018 07:05:51 UTC] PHP Notice:  Use of undefined constant passuser - assumed 'passuser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 26
+[10-Feb-2018 07:05:51 UTC] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 26
+[10-Feb-2018 07:05:51 UTC] PHP Notice:  Use of undefined constant sessid - assumed 'sessid' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 27
+[10-Feb-2018 07:05:51 UTC] PHP Notice:  Use of undefined constant id_session - assumed 'id_session' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 27
+[10-Feb-2018 07:05:51 UTC] PHP Notice:  Use of undefined constant leveluser - assumed 'leveluser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 28
+[10-Feb-2018 07:05:51 UTC] PHP Notice:  Use of undefined constant userslevel - assumed 'userslevel' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 28
+[10-Feb-2018 07:29:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[10-Feb-2018 07:29:48 UTC] PHP Notice:  Use of undefined constant namauser - assumed 'namauser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 24
+[10-Feb-2018 07:29:48 UTC] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 24
+[10-Feb-2018 07:29:48 UTC] PHP Notice:  Use of undefined constant namalengkap - assumed 'namalengkap' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 25
+[10-Feb-2018 07:29:48 UTC] PHP Notice:  Use of undefined constant passuser - assumed 'passuser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 26
+[10-Feb-2018 07:29:48 UTC] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 26
+[10-Feb-2018 07:29:48 UTC] PHP Notice:  Use of undefined constant sessid - assumed 'sessid' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 27
+[10-Feb-2018 07:29:48 UTC] PHP Notice:  Use of undefined constant id_session - assumed 'id_session' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 27
+[10-Feb-2018 07:29:48 UTC] PHP Notice:  Use of undefined constant leveluser - assumed 'leveluser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 28
+[10-Feb-2018 07:29:48 UTC] PHP Notice:  Use of undefined constant userslevel - assumed 'userslevel' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 28
+[11-Feb-2018 09:45:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[11-Feb-2018 09:45:47 UTC] PHP Notice:  Use of undefined constant namauser - assumed 'namauser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 24
+[11-Feb-2018 09:45:47 UTC] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 24
+[11-Feb-2018 09:45:47 UTC] PHP Notice:  Use of undefined constant namalengkap - assumed 'namalengkap' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 25
+[11-Feb-2018 09:45:47 UTC] PHP Notice:  Use of undefined constant passuser - assumed 'passuser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 26
+[11-Feb-2018 09:45:47 UTC] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 26
+[11-Feb-2018 09:45:47 UTC] PHP Notice:  Use of undefined constant sessid - assumed 'sessid' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 27
+[11-Feb-2018 09:45:47 UTC] PHP Notice:  Use of undefined constant id_session - assumed 'id_session' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 27
+[11-Feb-2018 09:45:47 UTC] PHP Notice:  Use of undefined constant leveluser - assumed 'leveluser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 28
+[11-Feb-2018 09:45:47 UTC] PHP Notice:  Use of undefined constant userslevel - assumed 'userslevel' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 28
+[11-Feb-2018 10:44:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[11-Feb-2018 10:44:06 UTC] PHP Notice:  Use of undefined constant namauser - assumed 'namauser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 24
+[11-Feb-2018 10:44:06 UTC] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 24
+[11-Feb-2018 10:44:06 UTC] PHP Notice:  Use of undefined constant namalengkap - assumed 'namalengkap' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 25
+[11-Feb-2018 10:44:06 UTC] PHP Notice:  Use of undefined constant passuser - assumed 'passuser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 26
+[11-Feb-2018 10:44:06 UTC] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 26
+[11-Feb-2018 10:44:06 UTC] PHP Notice:  Use of undefined constant sessid - assumed 'sessid' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 27
+[11-Feb-2018 10:44:06 UTC] PHP Notice:  Use of undefined constant id_session - assumed 'id_session' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 27
+[11-Feb-2018 10:44:06 UTC] PHP Notice:  Use of undefined constant leveluser - assumed 'leveluser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 28
+[11-Feb-2018 10:44:06 UTC] PHP Notice:  Use of undefined constant userslevel - assumed 'userslevel' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 28
+[12-Feb-2018 01:17:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[12-Feb-2018 01:17:44 UTC] PHP Notice:  Use of undefined constant namauser - assumed 'namauser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 24
+[12-Feb-2018 01:17:44 UTC] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 24
+[12-Feb-2018 01:17:44 UTC] PHP Notice:  Use of undefined constant namalengkap - assumed 'namalengkap' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 25
+[12-Feb-2018 01:17:44 UTC] PHP Notice:  Use of undefined constant passuser - assumed 'passuser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 26
+[12-Feb-2018 01:17:44 UTC] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 26
+[12-Feb-2018 01:17:44 UTC] PHP Notice:  Use of undefined constant sessid - assumed 'sessid' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 27
+[12-Feb-2018 01:17:44 UTC] PHP Notice:  Use of undefined constant id_session - assumed 'id_session' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 27
+[12-Feb-2018 01:17:44 UTC] PHP Notice:  Use of undefined constant leveluser - assumed 'leveluser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 28
+[12-Feb-2018 01:17:44 UTC] PHP Notice:  Use of undefined constant userslevel - assumed 'userslevel' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 28
+[12-Feb-2018 02:44:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[12-Feb-2018 03:07:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[12-Feb-2018 03:07:31 UTC] PHP Notice:  Use of undefined constant namauser - assumed 'namauser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 24
+[12-Feb-2018 03:07:31 UTC] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 24
+[12-Feb-2018 03:07:31 UTC] PHP Notice:  Use of undefined constant namalengkap - assumed 'namalengkap' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 25
+[12-Feb-2018 03:07:31 UTC] PHP Notice:  Use of undefined constant passuser - assumed 'passuser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 26
+[12-Feb-2018 03:07:31 UTC] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 26
+[12-Feb-2018 03:07:31 UTC] PHP Notice:  Use of undefined constant sessid - assumed 'sessid' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 27
+[12-Feb-2018 03:07:31 UTC] PHP Notice:  Use of undefined constant id_session - assumed 'id_session' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 27
+[12-Feb-2018 03:07:31 UTC] PHP Notice:  Use of undefined constant leveluser - assumed 'leveluser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 28
+[12-Feb-2018 03:07:31 UTC] PHP Notice:  Use of undefined constant userslevel - assumed 'userslevel' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 28
+[12-Feb-2018 12:24:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[12-Feb-2018 12:24:31 UTC] PHP Notice:  Use of undefined constant namauser - assumed 'namauser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 24
+[12-Feb-2018 12:24:31 UTC] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 24
+[12-Feb-2018 12:24:31 UTC] PHP Notice:  Use of undefined constant namalengkap - assumed 'namalengkap' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 25
+[12-Feb-2018 12:24:31 UTC] PHP Notice:  Use of undefined constant passuser - assumed 'passuser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 26
+[12-Feb-2018 12:24:31 UTC] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 26
+[12-Feb-2018 12:24:31 UTC] PHP Notice:  Use of undefined constant sessid - assumed 'sessid' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 27
+[12-Feb-2018 12:24:31 UTC] PHP Notice:  Use of undefined constant id_session - assumed 'id_session' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 27
+[12-Feb-2018 12:24:31 UTC] PHP Notice:  Use of undefined constant leveluser - assumed 'leveluser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 28
+[12-Feb-2018 12:24:31 UTC] PHP Notice:  Use of undefined constant userslevel - assumed 'userslevel' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 28
+[13-Feb-2018 02:46:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[13-Feb-2018 02:46:20 UTC] PHP Notice:  Use of undefined constant namauser - assumed 'namauser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 24
+[13-Feb-2018 02:46:20 UTC] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 24
+[13-Feb-2018 02:46:20 UTC] PHP Notice:  Use of undefined constant namalengkap - assumed 'namalengkap' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 25
+[13-Feb-2018 02:46:20 UTC] PHP Notice:  Use of undefined constant passuser - assumed 'passuser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 26
+[13-Feb-2018 02:46:20 UTC] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 26
+[13-Feb-2018 02:46:20 UTC] PHP Notice:  Use of undefined constant sessid - assumed 'sessid' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 27
+[13-Feb-2018 02:46:20 UTC] PHP Notice:  Use of undefined constant id_session - assumed 'id_session' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 27
+[13-Feb-2018 02:46:20 UTC] PHP Notice:  Use of undefined constant leveluser - assumed 'leveluser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 28
+[13-Feb-2018 02:46:20 UTC] PHP Notice:  Use of undefined constant userslevel - assumed 'userslevel' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 28
+[13-Feb-2018 02:46:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[13-Feb-2018 02:46:38 UTC] PHP Notice:  Use of undefined constant namauser - assumed 'namauser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 24
+[13-Feb-2018 02:46:38 UTC] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 24
+[13-Feb-2018 02:46:38 UTC] PHP Notice:  Use of undefined constant namalengkap - assumed 'namalengkap' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 25
+[13-Feb-2018 02:46:38 UTC] PHP Notice:  Use of undefined constant passuser - assumed 'passuser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 26
+[13-Feb-2018 02:46:38 UTC] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 26
+[13-Feb-2018 02:46:38 UTC] PHP Notice:  Use of undefined constant sessid - assumed 'sessid' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 27
+[13-Feb-2018 02:46:38 UTC] PHP Notice:  Use of undefined constant id_session - assumed 'id_session' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 27
+[13-Feb-2018 02:46:38 UTC] PHP Notice:  Use of undefined constant leveluser - assumed 'leveluser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 28
+[13-Feb-2018 02:46:38 UTC] PHP Notice:  Use of undefined constant userslevel - assumed 'userslevel' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 28
+[15-Feb-2018 03:58:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[15-Feb-2018 03:58:21 UTC] PHP Notice:  Use of undefined constant namauser - assumed 'namauser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 24
+[15-Feb-2018 03:58:21 UTC] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 24
+[15-Feb-2018 03:58:21 UTC] PHP Notice:  Use of undefined constant namalengkap - assumed 'namalengkap' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 25
+[15-Feb-2018 03:58:21 UTC] PHP Notice:  Use of undefined constant passuser - assumed 'passuser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 26
+[15-Feb-2018 03:58:21 UTC] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 26
+[15-Feb-2018 03:58:21 UTC] PHP Notice:  Use of undefined constant sessid - assumed 'sessid' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 27
+[15-Feb-2018 03:58:21 UTC] PHP Notice:  Use of undefined constant id_session - assumed 'id_session' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 27
+[15-Feb-2018 03:58:21 UTC] PHP Notice:  Use of undefined constant leveluser - assumed 'leveluser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 28
+[15-Feb-2018 03:58:21 UTC] PHP Notice:  Use of undefined constant userslevel - assumed 'userslevel' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 28
+[22-Feb-2018 06:27:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[22-Feb-2018 06:27:33 UTC] PHP Notice:  Use of undefined constant namauser - assumed 'namauser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 24
+[22-Feb-2018 06:27:33 UTC] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 24
+[22-Feb-2018 06:27:35 UTC] PHP Notice:  Use of undefined constant namalengkap - assumed 'namalengkap' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 25
+[22-Feb-2018 06:27:35 UTC] PHP Notice:  Use of undefined constant passuser - assumed 'passuser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 26
+[22-Feb-2018 06:27:35 UTC] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 26
+[22-Feb-2018 06:27:35 UTC] PHP Notice:  Use of undefined constant sessid - assumed 'sessid' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 27
+[22-Feb-2018 06:27:35 UTC] PHP Notice:  Use of undefined constant id_session - assumed 'id_session' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 27
+[22-Feb-2018 06:27:35 UTC] PHP Notice:  Use of undefined constant leveluser - assumed 'leveluser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 28
+[22-Feb-2018 06:27:35 UTC] PHP Notice:  Use of undefined constant userslevel - assumed 'userslevel' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 28
+[19-Apr-2018 15:03:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[19-Apr-2018 15:03:29 UTC] PHP Notice:  Use of undefined constant namauser - assumed 'namauser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 24
+[19-Apr-2018 15:03:29 UTC] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 24
+[19-Apr-2018 15:03:29 UTC] PHP Notice:  Use of undefined constant namalengkap - assumed 'namalengkap' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 25
+[19-Apr-2018 15:03:29 UTC] PHP Notice:  Use of undefined constant namalengkap - assumed 'namalengkap' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 25
+[19-Apr-2018 15:03:29 UTC] PHP Notice:  Use of undefined constant passuser - assumed 'passuser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 26
+[19-Apr-2018 15:03:29 UTC] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 26
+[19-Apr-2018 15:03:29 UTC] PHP Notice:  Use of undefined constant sessid - assumed 'sessid' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 27
+[19-Apr-2018 15:03:29 UTC] PHP Notice:  Use of undefined constant id_session - assumed 'id_session' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 27
+[19-Apr-2018 15:03:29 UTC] PHP Notice:  Use of undefined constant leveluser - assumed 'leveluser' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 28
+[19-Apr-2018 15:03:29 UTC] PHP Notice:  Use of undefined constant userslevel - assumed 'userslevel' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 28
+[19-Apr-2018 15:03:29 UTC] PHP Notice:  Use of undefined constant userslevel - assumed 'userslevel' in /home/u7461603/public_html/penilaiantot/cek_login.php on line 30

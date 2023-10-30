@@ -1,0 +1,5 @@
+[09-Feb-2018 07:04:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/u7461603/public_html/penilaiantot/config/koneksi.php on line 12
+[09-Feb-2018 07:04:13 UTC] PHP Notice:  Use of undefined constant username - assumed 'username' in /home/u7461603/public_html/penilaiantot/modul/mod_user/aksi_user.php on line 39
+[09-Feb-2018 07:04:13 UTC] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/u7461603/public_html/penilaiantot/modul/mod_user/aksi_user.php on line 45
+[09-Feb-2018 07:04:13 UTC] PHP Notice:  Use of undefined constant modul - assumed 'modul' in /home/u7461603/public_html/penilaiantot/modul/mod_user/aksi_user.php on line 49
+[09-Feb-2018 07:04:13 UTC] PHP Notice:  Undefined index: modul in /home/u7461603/public_html/penilaiantot/modul/mod_user/aksi_user.php on line 49
