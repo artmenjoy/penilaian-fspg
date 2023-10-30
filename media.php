@@ -183,7 +183,7 @@ if (empty($_SESSION['namauser']) and empty($_SESSION['passuser'])) {
 				<div class="navbar-default sidebar" role="navigation">
 					<div class="sidebar-nav navbar-collapse">
 						<div align="center">
-							<img class="profile-img" src="d.jpg" alt="">
+							<img class="profile-img" src="logompasli.jpg" alt="">
 						</div>
 						<? include "menu.php"; ?>
 

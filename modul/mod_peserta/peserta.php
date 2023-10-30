@@ -47,13 +47,13 @@ if (empty($_SESSION['username']) and empty($_SESSION['passuser'])) {
 											<thead>
 												<tr>
 													<!-- tampilkan -->
-													<th>No Talent</th>
+													<th>No Tampil</th>
 													<th>Peserta</th>
 
 													<th>Jemaat</th>
 													<!-- <th>Kelamin</th> -->
 
-													<!-- <th>Nomor Peserta</th> -->
+													
 													<th>Aksi</th>
 												</tr>
 											</thead>
@@ -127,7 +127,7 @@ if (empty($_SESSION['username']) and empty($_SESSION['passuser'])) {
 													</select>
 												</div>
 												<div class="form-group">
-													<label>Nomor Peserta :</label>
+													<label>Nomor Tampil :</label>
 													<input class="form-control" type=text name='nomortalent' placeholder="nomortalent" required>
 												</div>
 												<button type="submit" class="btn btn-default">Simpan</button>
@@ -209,7 +209,7 @@ if (empty($_SESSION['username']) and empty($_SESSION['passuser'])) {
 													</select>
 												</div>
 												<div class="form-group">
-													<label>Nomor Peserta :</label>
+													<label>Nomor Tampil :</label>
 													<input class="form-control" type=text name='nomortalent' value='<?= $r[nomortalent] ?>' required>
 
 													<button type="submit" class="btn btn-default">Simpan</button>

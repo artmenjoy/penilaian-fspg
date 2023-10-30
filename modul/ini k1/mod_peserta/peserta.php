@@ -203,7 +203,7 @@ if($cek==1 OR $_SESSION[leveluser]=='admin'){
 							?>
 							</select>
 						<div class="form-group">
-							<label>Nomor Talent :</label>
+							<label>Nomor Tampil :</label>
 							<input class="form-control" type=text name='nomortalent' value='<?=$r[nomortalent] ?>' required>
 						</div>
 						<button type="submit" class="btn btn-default">Simpan</button>

@@ -97,7 +97,7 @@ if (empty($_SESSION['username']) and empty($_SESSION['passuser'])) {
 										<table class="table table-striped table-bordered table-hover" id="dataTables">
 											<thead>
 												<tr>
-													<th>Nomor Talent</th>
+													<th>Nomor Tampil</th>
 
 													<th>Peserta</th>
 													<th>Jemaat</th>
@@ -171,7 +171,7 @@ if (empty($_SESSION['username']) and empty($_SESSION['passuser'])) {
 													<th>Peserta</th>
 													<th>Jemaat</th>
 													<!-- <th>Wilayah</th> -->
-													<th>Pria/Wanita</th>
+													<!-- <th>Pria/Wanita</th> -->
 													<?
 													$kategori = mysql_query("select * from kategorinilai");
 													while ($kategori2 = mysql_fetch_array($kategori)) {
@@ -194,7 +194,7 @@ if (empty($_SESSION['username']) and empty($_SESSION['passuser'])) {
 											<td width=50><center>$no</center></td>
 											<td>$r[peserta]</td>
 											<td>$r[jemaat]</td>
-											<td>$r[kelamin]</td>
+									
 											";
 													$totalnilai = 0;
 													$kategori3 = mysql_query("select * from kategorinilai");

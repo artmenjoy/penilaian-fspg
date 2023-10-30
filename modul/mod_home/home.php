@@ -24,7 +24,7 @@ if (empty($_SESSION['username']) and empty($_SESSION['passuser'])) {
 			?>
 						<div class="row">
 
-							<img class="profile-img" src="gantisini.jpg" alt="">
+							<img class="profile-img" style="width:100%" src="bg-fspg-wide.jpg" alt="">
 						</div>
 
 

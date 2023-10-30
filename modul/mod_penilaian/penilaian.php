@@ -187,15 +187,15 @@ if (empty($_SESSION['username']) and empty($_SESSION['passuser'])) {
 									<input type=hidden name=id_kategorinilai value='<? echo "$_GET[id_kategorinilai]"; ?>'>
 
 									<div class="form-group">
-										<label>Penilaian (Content):</label>
+										<label>Penilaian 1:</label>
 										<input class="form-control" type=text name='content' id='penilaian' placeholder="Nilai Peserta" required>
 									</div>
 									<div class="form-group">
-										<label>Penilaian (Correlation):</label>
+										<label>Penilaian 2:</label>
 										<input class="form-control" type=text name='correlation' id='penilaian' placeholder="Nilai Peserta" required>
 									</div>
 									<div class="form-group">
-										<label>Penilaian (Performance):</label>
+										<label>Penilaian 3:</label>
 										<input class="form-control" type=text name='performance' id='penilaian' placeholder="Nilai Peserta" required>
 									</div>
 
