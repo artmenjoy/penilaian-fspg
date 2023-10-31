@@ -60,7 +60,7 @@ if (empty($_SESSION['username']) and empty($_SESSION['passuser'])) {
 											<td>$r[kategorinilai]</td>
 											<td>";
 														if ($cekcrud['isi'] == 'y' or $_SESSION[leveluser] == 'admin') {
-															echo "<a href='?module=$mod&act=peserta&id_kategorinilai=$r[id_kategorinilai]' title='Nilai'>Nilai</a> ";
+															echo "<a href='?module=$mod&act=peserta&id_kategorinilai=$r[id_kategorinilai]' title='Nilai'>Pilih Kategori</a> ";
 														}
 
 														$no++;
@@ -96,11 +96,9 @@ if (empty($_SESSION['username']) and empty($_SESSION['passuser'])) {
 											<thead>
 												<tr>
 
-													<th>Nomor Tampil</th>
-													<th>Nama</th>
-
-													<!-- <th>Gender</th> -->
+													<th style="width:50px">Nomor Urut</th>
 													<th>Jemaat</th>
+
 													<th>Wilayah</th>
 													<th>Nilai</th>
 													<!-- <th>Catatan</th> -->
@@ -118,8 +116,8 @@ if (empty($_SESSION['username']) and empty($_SESSION['passuser'])) {
 											<td>$r[nomortalent]</td>
 											<td>$r[peserta]</td>
 											
-											<td>$r[jemaat]</td>
-											<td>$r[rayon]</td>
+											<td>$r[wilayah]</td>
+											
 											";
 													$nilainya = mysql_query("select * from penilaian where id_peserta='$r[id_peserta]' and id_kategorinilai='$_GET[id_kategorinilai]' and id_user='$_SESSION[namauser]'");
 													$nilainya2 = mysql_fetch_array($nilainya);
@@ -134,7 +132,7 @@ if (empty($_SESSION['username']) and empty($_SESSION['passuser'])) {
 													if ($cekkategori2 > 0 or $_SESSION[leveluser] == 'admin') {
 														if ($nilainya3 < 1) {
 															//if($cekwawancara < 1){
-															echo "<a href='?module=$mod&act=penilaianpeserta&id_kategorinilai=$_GET[id_kategorinilai]&id_peserta=$r[id_peserta]' title='Nilai'>Penilaian</a> ";
+															echo "<a class='btn btn-success btn-xs'  href='?module=$mod&act=penilaianpeserta&id_kategorinilai=$_GET[id_kategorinilai]&id_peserta=$r[id_peserta]' title='Nilai'>Beri Nilai</a> ";
 															//}
 														}
 													}
@@ -180,23 +178,23 @@ if (empty($_SESSION['username']) and empty($_SESSION['passuser'])) {
 					<div class='col-lg-12'>
 
 						<div class='panel panel-default'>
-							<div class='panel-heading'>Tambah Penilaian Kategori <?= $kategorinilai2['kategorinilai'] ?> Untuk Peserta <?= $peserta2['peserta'] ?></div>
+							<div class='panel-heading'>Beri nilai untuk NOMOR URUT <b><?=$peserta2['nomortalent']?></b>  Jemaat <b><?= $peserta2['peserta'] ?></b></div>
 							<div class="panel-body">
 								<form data-toggle="validator" role="form" name='isian' id='isian' method=POST action='<? echo "$aksi?module=$mod&act=input"; ?>'>
 									<input type=hidden name=id_peserta value='<? echo "$_GET[id_peserta]"; ?>'>
 									<input type=hidden name=id_kategorinilai value='<? echo "$_GET[id_kategorinilai]"; ?>'>
-
+<p>Jika nilai pecahan pakai tanda titik (cth: 80.5)</p>
 									<div class="form-group">
 										<label>Penilaian 1:</label>
-										<input class="form-control" type=text name='content' id='penilaian' placeholder="Nilai Peserta" required>
+										<input class="form-control" type=text name='content' id='penilaian' placeholder="Pecahan pakai Titik" required autocomplete="off"  >
 									</div>
 									<div class="form-group">
 										<label>Penilaian 2:</label>
-										<input class="form-control" type=text name='correlation' id='penilaian' placeholder="Nilai Peserta" required>
+										<input class="form-control" type=text name='correlation' id='penilaian' placeholder="Pecahan pakai Titik" required autocomplete="off">
 									</div>
 									<div class="form-group">
 										<label>Penilaian 3:</label>
-										<input class="form-control" type=text name='performance' id='penilaian' placeholder="Nilai Peserta" required>
+										<input class="form-control" type=text name='performance' id='penilaian' placeholder="Pecahan pakai Titik" required autocomplete="off">
 									</div>
 
 

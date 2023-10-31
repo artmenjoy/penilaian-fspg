@@ -36,7 +36,7 @@ if (empty($_SESSION['username']) and empty($_SESSION['passuser'])) {
 						<div class='col-lg-12'>
 
 							<? if ($cekcrud['lihat'] == 'y' or $_SESSION[leveluser] == 'admin') { ?>
-								<p><a href='?module=<?= $mod; ?>&act=rekapnilaiall' class='btn btn-primary'><span>Rekap Nilai All</span></a></p>
+								<!-- <p><a href='?module=<?= $mod; ?>&act=rekapnilaiall' class='btn btn-primary'><span>Rekap Nilai All</span></a></p> -->
 							<? } ?>
 
 							<div class='panel panel-default'>
@@ -97,10 +97,10 @@ if (empty($_SESSION['username']) and empty($_SESSION['passuser'])) {
 										<table class="table table-striped table-bordered table-hover" id="dataTables">
 											<thead>
 												<tr>
-													<th>Nomor Tampil</th>
+													<th style= "width:50px">Nomor Urut</th>
 
 													<th>Peserta</th>
-													<th>Jemaat</th>
+													<!-- <th>Jemaat</th> -->
 													<!-- <th>Wilayah</th> -->
 													<th>Wilayah</th>
 													<?
@@ -122,8 +122,7 @@ if (empty($_SESSION['username']) and empty($_SESSION['passuser'])) {
 													echo "<tr class='gradeX'>
 											<td>$r[nomortalent]</td>
 											<td>$r[peserta]</td>
-											<td>$r[jemaat]</td>
-											<td>$r[rayon]</td>
+											<td>$r[wilayah]</td>
 											
 											
 											";

@@ -47,10 +47,10 @@ if (empty($_SESSION['username']) and empty($_SESSION['passuser'])) {
 											<thead>
 												<tr>
 													<!-- tampilkan -->
-													<th>No Tampil</th>
+													<th style="width:50px">No Urut</th>
 													<th>Peserta</th>
 
-													<th>Jemaat</th>
+													<th>Wilayah</th>
 													<!-- <th>Kelamin</th> -->
 
 													
@@ -67,7 +67,7 @@ if (empty($_SESSION['username']) and empty($_SESSION['passuser'])) {
 											<td>$r[nomortalent]</td>
 											<td>$r[$mod]</td>
 											
-											<td>$r[jemaat]</td>
+											<td>$r[wilayah]</td>
 											
 											
 											<td>";

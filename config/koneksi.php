@@ -6,7 +6,7 @@ require_once('fungsi_validasi.php');
 $server =  "localhost";
 $username = "root";
 $password = "usbw";
-$database = "retel";
+$database = "fspg";
 
 // Koneksi dan memilih database di server
 $link=mysql_connect($server,$username,$password);

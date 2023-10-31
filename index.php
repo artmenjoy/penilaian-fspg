@@ -36,7 +36,7 @@
                             <fieldset>
                                 <div class="row">
                                     <div class="center-block" align="center"><br><br>
-                                        <img class="profile-img" src="logompasli.jpg" alt=""><br>
+                                        <img class="profile-img" src="logofspg.jpg" alt=""><br>
                                     </div><br><br><br>
                                 </div>
                                 <div class="row">

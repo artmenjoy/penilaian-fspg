@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: localhost
--- Generation Time: Oct 30, 2023 at 08:47 AM
+-- Generation Time: Oct 31, 2023 at 08:04 AM
 -- Server version: 5.5.20
 -- PHP Version: 5.3.9
 
@@ -17,7 +17,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8 */;
 
 --
--- Database: `retel`
+-- Database: `fspg`
 --
 
 -- --------------------------------------------------------
@@ -175,15 +175,14 @@ CREATE TABLE IF NOT EXISTS `penilaian` (
   KEY `id_kategorinilai` (`id_kategorinilai`),
   KEY `id_user` (`id_user`),
   KEY `id_peserta` (`id_peserta`)
-) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=7 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=5 ;
 
 --
 -- Dumping data for table `penilaian`
 --
 
 INSERT INTO `penilaian` (`id_penilaian`, `penilaian`, `id_kategorinilai`, `id_user`, `id_peserta`, `catatan`) VALUES
-(4, 87.00, 8, 'pntwilly', 4, 'Content 87 | Correlation 88 | Performance 86 <br> '),
-(6, 89.00, 8, 'tiffanymoningka', 4, 'Content 89 | Correlation 89 | Performance 89 <br> ');
+(4, 87.00, 8, 'pntwilly', 4, 'Content 87 | Correlation 88 | Performance 86 <br> ');
 
 -- --------------------------------------------------------
 
@@ -343,7 +342,8 @@ CREATE TABLE IF NOT EXISTS `users` (
 --
 
 INSERT INTO `users` (`username`, `password`, `namalengkap`, `id_grupakses`, `email`, `notelp`, `foto`, `id_userslevel`, `blokir`, `id_session`) VALUES
-('administrator', '014ee16ac542a3a88535612a35ca6c78', 'Administrator', 1, '', '', NULL, 1, 'T', '41f83316477477a0bc03ac954c9a251b'),
+('administrator', '8052cd54fbfb948b9847cc151e5a52e6', 'Administrator', 1, '', '', NULL, 1, 'T', '41f83316477477a0bc03ac954c9a251b'),
+('dummytesting', '8052cd54fbfb948b9847cc151e5a52e6', 'Admin Pemuda', 3, '', '', NULL, 2, 'T', '01601da7b3a79ca9d8198fd46c5cf44a'),
 ('kelotuerah', 'c7997dd5634e2e5de9e39bfe33984774', 'Juri VG 1 - Michael Tuerah', 3, '', '', NULL, 2, 'T', 'c7997dd5634e2e5de9e39bfe33984774'),
 ('pntwilly', 'a73e47bcfd398c44c047863588227a95', 'Pnt Will', 3, '', '', NULL, 2, 'T', 'a73e47bcfd398c44c047863588227a95'),
 ('tiffanymoningka', '409ac3a4a3639f1ddaefd4fc71eb552e', 'Pnt. Tiffany Moningka', 3, '', '', NULL, 2, 'T', '409ac3a4a3639f1ddaefd4fc71eb552e');
@@ -406,14 +406,7 @@ CREATE TABLE IF NOT EXISTS `wawancara` (
   `username` varchar(50) NOT NULL,
   `sudah` char(1) NOT NULL,
   PRIMARY KEY (`id_wawancara`)
-) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=11 ;
-
---
--- Dumping data for table `wawancara`
---
-
-INSERT INTO `wawancara` (`id_wawancara`, `id_peserta`, `username`, `sudah`) VALUES
-(10, 5, 'tiffanymoningka', 'n');
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;
 
 --
 -- Constraints for dumped tables
