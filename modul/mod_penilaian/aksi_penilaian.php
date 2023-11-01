@@ -60,7 +60,7 @@ $bandingkan2=mysql_num_rows($bandingkan);
 
 //echo"INSERT INTO penilaian(penilaian,id_kategorinilai,id_peserta, id_user) VALUES('$_POST[penilaian]','$_POST[id_kategorinilai]','$_POST[id_peserta]','$_SESSION[namauser]')";
   $penilaianall=($_POST['content']+$_POST['correlation']+$_POST['performance'])/3;
-  $catnilai="Penilaian A $_POST[content] <br> Penilaian B $_POST[correlation] <br> Penilaian C $_POST[performance]";
+  $catnilai="Materi Vokal: $_POST[content] <br> Aransemen: $_POST[correlation] <br> Penyajian:	 $_POST[performance]";
   mysql_query("INSERT INTO penilaian(penilaian,id_kategorinilai,id_peserta, id_user,catatan) VALUES('$penilaianall','$_POST[id_kategorinilai]','$_POST[id_peserta]','$_SESSION[namauser]','$catnilai <br> $_POST[catatan]')");
   		if(mysql_affected_rows() > 0){  		
   			

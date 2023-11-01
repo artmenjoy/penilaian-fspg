@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: localhost
--- Generation Time: Oct 31, 2023 at 09:37 AM
+-- Generation Time: Nov 01, 2023 at 01:39 PM
 -- Server version: 5.5.20
 -- PHP Version: 5.3.9
 
@@ -38,7 +38,7 @@ CREATE TABLE IF NOT EXISTS `aksescrud` (
   KEY `id_grupakses` (`id_grupakses`),
   KEY `id_modul` (`id_modul`),
   KEY `id_modul_2` (`id_modul`)
-) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=18 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=21 ;
 
 --
 -- Dumping data for table `aksescrud`
@@ -46,7 +46,10 @@ CREATE TABLE IF NOT EXISTS `aksescrud` (
 
 INSERT INTO `aksescrud` (`id_aksescrud`, `id_grupakses`, `id_modul`, `lihat`, `isi`, `ubah`, `hapus`) VALUES
 (16, 3, 52, 'y', 'y', 'y', 'y'),
-(17, 3, 28, 'y', 'y', 'y', 'y');
+(17, 3, 28, 'y', 'y', 'y', 'y'),
+(18, 4, 53, 'y', 'y', 'y', 'y'),
+(19, 4, 49, 'y', '', '', ''),
+(20, 4, 28, 'y', 'y', 'y', 'y');
 
 -- --------------------------------------------------------
 
@@ -58,14 +61,15 @@ CREATE TABLE IF NOT EXISTS `grupakses` (
   `id_grupakses` int(11) NOT NULL AUTO_INCREMENT,
   `grupakses` varchar(50) NOT NULL,
   PRIMARY KEY (`id_grupakses`)
-) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=4 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=5 ;
 
 --
 -- Dumping data for table `grupakses`
 --
 
 INSERT INTO `grupakses` (`id_grupakses`, `grupakses`) VALUES
-(3, 'Juri');
+(3, 'Juri'),
+(4, 'Instruktur Pertandingan');
 
 -- --------------------------------------------------------
 
@@ -125,7 +129,7 @@ INSERT INTO `modul` (`id_modul`, `modul`, `link`, `aktif`, `id_parent`, `icon`, 
 (52, 'Penilaian', '?module=penilaian', 'Y', 26, 'fa fa-user fa-fw', 1),
 (53, 'Rekap Nilai', '?module=rekapnilai', 'Y', 27, 'fa fa-user fa-fw', 1),
 (54, 'Peserta Kategori Nilai', '?module=pesertakategorinilai', 'Y', 28, 'fa fa-bicycle fa-fw', 1),
-(55, 'Persahabatan', '?module=persahabatan', 'Y', 27, 'fa fa-user fa-fw', 2),
+(55, 'Persahabatan', '?module=persahabatan', 'T', 27, 'fa fa-user fa-fw', 2),
 (56, 'Tampilkan', '?module=tampilkan', 'Y', 29, 'fa fa-bell fa-fw', 1);
 
 -- --------------------------------------------------------
@@ -175,7 +179,7 @@ CREATE TABLE IF NOT EXISTS `penilaian` (
   KEY `id_kategorinilai` (`id_kategorinilai`),
   KEY `id_user` (`id_user`),
   KEY `id_peserta` (`id_peserta`)
-) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=9 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=26 ;
 
 -- --------------------------------------------------------
 
@@ -203,6 +207,7 @@ CREATE TABLE IF NOT EXISTS `peserta` (
   `id_rayon` int(11) NOT NULL,
   `kelamin` varchar(6) NOT NULL,
   `nomortalent` int(11) NOT NULL,
+  `bisahapus` int(2) NOT NULL,
   PRIMARY KEY (`id_peserta`),
   KEY `id_rayon` (`id_rayon`)
 ) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=257 ;
@@ -211,91 +216,91 @@ CREATE TABLE IF NOT EXISTS `peserta` (
 -- Dumping data for table `peserta`
 --
 
-INSERT INTO `peserta` (`id_peserta`, `peserta`, `jemaat`, `wilayah`, `id_rayon`, `kelamin`, `nomortalent`) VALUES
-(173, 'FIRDAUS RANOTONGKOR', '', 'TANAWANGKO I', 3, '', 1),
-(174, 'MAHANAIM SAWANGAN', '', 'SONDER', 3, '', 2),
-(175, 'BAITEL KEMA II', '', 'KEMA', 3, '', 3),
-(176, 'SYALOM DENDENGAN DALAM', '', 'MANADO TIMUR II', 3, '', 4),
-(177, 'IMANUEL SAGRAT', '', 'BITUNG VII', 3, '', 5),
-(178, 'AGAPE MALENDENG', '', 'MANADO TIMUR V', 3, '', 6),
-(179, 'EXODUS WATULINEY', '', 'BELANG', 3, '', 7),
-(180, 'SESAWI WATUTUMOU ', '', 'KALAWAT I', 3, '', 8),
-(181, 'ANDREAS BANJER', '', 'MANADO TIMUR I', 3, '', 9),
-(182, 'SANGKAKALA MALALAYANG I', '', 'MANADO MALALAYANG TIMUR', 3, '', 10),
-(183, 'BAPA ABRAHAM TATAARAN PATAR', '', 'TONDANO III', 3, '', 11),
-(184, 'DALO SU RUATA KOMBOS TIMUR', '', 'MANADO WAWONASA KOMBOS', 3, '', 12),
-(185, 'YARDEN SINGKIL KAMPUNG ISLAM', '', 'MANADO UTARA I', 3, '', 13),
-(186, 'GETSEMANI BAILANG', '', 'MANADO UTARA III', 3, '', 14),
-(187, 'SILOAM TATAARAN II', '', 'TONDANO VI', 3, '', 15),
-(188, 'KALVARI TALAITAD', '', 'TARERAN II', 3, '', 16),
-(189, 'PETRA WANGURER BARAT', '', 'BITUNG VIII', 3, '', 17),
-(190, 'TORSINA KEMBES', '', 'KEMBES', 3, '', 18),
-(191, 'MORIA SASARAN', '', 'TONDANO VI', 3, '', 19),
-(192, 'HOSANA WAWONASA', '', 'MANADO WAWONASA', 3, '', 20),
-(193, 'BAITEL ERIS', '', 'TANDENGAN', 3, '', 21),
-(194, 'SION NOONGAN', '', 'LANGOWAN KELELONDEI', 3, '', 22),
-(195, 'BAITANI KOPIWANGKER', '', 'LANGOWAN IV', 3, '', 23),
-(196, 'KASIH KARUNIA PANCURAN', '', 'MANADO MALALAYANG TIMUR', 3, '', 24),
-(197, 'SENTRUM MANADO', '', 'MANADO SENTRUM', 3, '', 25),
-(198, 'EKLESIA PANDU', '', 'MANADO MAPANGET TUMPA II', 3, '', 26),
-(199, 'BUKIT ZAITUN PANCURAN ATAS SINGKIL', '', 'MANADO UTARA I', 3, '', 27),
-(200, 'IMANUEL BAHU', '', 'MANADO BARAT DAYA', 3, '', 28),
-(201, 'EBEN HAEZER AMPRENG', '', 'LANGOWAN KELELONDEI', 3, '', 29),
-(202, 'BUKIT KARMEL KAKENTURAN', '', 'BITUNG I', 3, '', 30),
-(203, 'RIEDEL KEMBES', '', 'KEMBES', 3, '', 31),
-(204, 'BETANIA SINDULANG SINGKIL', '', 'MANADO UTARA I', 3, '', 32),
-(205, 'TASIK WANGURER', '', 'BITUNG VIII', 3, '', 33),
-(206, 'BUKIT SION AIRMADIDI ATAS', '', 'AIRMADIDI III', 3, '', 34),
-(207, 'MARKUS KINILOW', '', 'LOKON EMPUNG', 3, '', 35),
-(208, 'BAITEL TENDEKI', '', 'BITUNG XI', 3, '', 36),
-(209, 'KALVARI WANGURER', '', 'BITUNG VIII', 3, '', 37),
-(210, 'SION SENTRUM SENDANGAN', '', 'KAWANGKOAN', 3, '', 38),
-(211, 'YERUSALEM BATUKOTA', '', 'MANADO BARAT DAYA', 3, '', 39),
-(212, 'PAULUS TITIWUNGEN WENANG MAHAKERET', '', 'MANADO TITIWUNGEN', 3, '', 40),
-(213, 'TANJUNG PASIR PAAL IV', '', 'MANADO TIMUR IV', 3, '', 41),
-(214, 'SILOAM DENDENGAN LUAR', '', 'MANADO TIMUR I', 3, '', 42),
-(215, 'TRIFENA KAASAR', '', 'MINAWEROT I', 3, '', 43),
-(216, 'MARANATHA SARONGSONG', '', 'AIRMADIDI III', 3, '', 44),
-(217, 'WALETA PINELENG', '', 'PINELENG', 3, '', 45),
-(218, 'KANAAN KULO', '', 'TONDANO V', 3, '', 46),
-(219, 'EBEN HAEZER MASARANG', '', 'TONDANO II', 3, '', 47),
-(220, 'SION TUMALUNTUNG', '', 'MINAWEROT I', 3, '', 48),
-(221, 'ANUGERAH TATELU', '', 'TATELU', 3, '', 49),
-(222, 'SUMBER BERKAT MALALAYANG I', '', 'MANADO MALALAYANG', 3, '', 50),
-(223, 'EBEN HAEZER TAWARIKH', '', 'MANADO TENGGARA', 3, '', 51),
-(224, 'SYALOM RARINGIS', '', 'LANGOWAN KELELONDEI', 3, '', 52),
-(225, 'EBEN HAEZER KOMBOS', '', 'MANADO WAWONASA KOMBOS', 3, '', 53),
-(226, 'MARTURIA ROONG', '', 'TONDANO II', 3, '', 54),
-(227, 'BUKIT KARMEL MAPANGET', '', 'MAPANGET II', 3, '', 55),
-(228, 'PAULUS TONSARU', '', 'TONDANO III', 3, '', 56),
-(229, 'FIRDAUS MAYONDI TUMINTING', '', 'MANADO UTARA II', 3, '', 57),
-(230, 'SION WAREMBUNGAN', '', 'WAREMBUNGAN', 3, '', 58),
-(231, 'EBEN HAEZER BUMI BERINGIN', '', 'MANADO TELING', 3, '', 59),
-(232, 'DAMAI BELANG I', '', 'BELANG', 3, '', 60),
-(233, 'EKLESIA TATELU RONDOR', '', 'TATELU I', 3, '', 61),
-(234, 'IMANUEL SENDANGAN', '', 'KAKAS I', 3, '', 62),
-(235, 'ELOHIM KOLONGAN I', '', 'TOMOHON I', 3, '', 63),
-(236, 'GETSEMANI SENDUK', '', 'TANAWANGKO II', 3, '', 64),
-(237, 'SOLAFIDE KALI', '', 'PINELENG', 3, '', 65),
-(238, 'ABRAHAM TATAARAN PATAR', '', 'TONDANO III', 3, '', 66),
-(239, 'KASIH KRISTUS', '', 'MINAWEROT', 3, '', 67),
-(240, 'KINILOW YERUSALEM', '', 'LOKON EMPUNG', 3, '', 68),
-(241, 'SENTRUM BITUNG', '', 'BITUNG I', 3, '', 69),
-(242, 'TUMOUTOU KENDIS', '', 'TONDANO I', 3, '', 70),
-(243, 'ELIM SULUAN', '', 'TOMOHON V', 3, '', 71),
-(244, 'PNIEL BAHU', '', 'MANADO BARAT DAYA', 3, '', 72),
-(245, 'GETSEMANI PAAL IV', '', 'MANADO TIMUR IV', 3, '', 73),
-(246, 'ZEBAOTH KAIRAGI', '', 'MANADO TIMUR III', 3, '', 74),
-(247, 'KALVARI PURI MANADO PERMAI BENGKOL', '', 'MANADO MAPANGET TUMPA II', 3, '', 75),
-(248, 'BUKIT ZAITUN MALALAYANG', '', 'MANADO MALALAYANG', 3, '', 76),
-(249, 'EBEN HAEZER KOMBI', '', 'LEMBEAN KOMBI', 3, '', 77),
-(250, 'EBEN HAEZER BUNTONG', '', 'MANDOLANG II', 3, '', 78),
-(251, 'BAITANI PASLATEN', '', 'MINAWEROT I', 3, '', 79),
-(252, 'DIASPORA PERUM BHAYANGKARA BUHA PERMAI', '', 'MANADO MAPANGET TUMPA I', 3, '', 80),
-(253, 'GUNUNG ARARAT BUHA', '', 'MANADO MAPANGET TUMPA I', 3, '', 81),
-(254, 'KALVARI MALALAYANG', '', 'MANADO MALALAYANG', 3, '', 82),
-(255, 'PNIEL KAIRAGI', '', 'MANADO TIMUR III', 3, '', 83),
-(256, 'HIDUP BARU MAESA UNIMA', '', 'TONDANO III', 3, '', 84);
+INSERT INTO `peserta` (`id_peserta`, `peserta`, `jemaat`, `wilayah`, `id_rayon`, `kelamin`, `nomortalent`, `bisahapus`) VALUES
+(173, 'FIRDAUS RANOTONGKOR', '-', 'TANAWANGKO I', 3, '', 1, 0),
+(174, 'MAHANAIM SAWANGAN', '', 'SONDER', 3, '', 2, 0),
+(175, 'BAITEL KEMA II', '', 'KEMA', 3, '', 3, 0),
+(176, 'SYALOM DENDENGAN DALAM', '', 'MANADO TIMUR II', 3, '', 4, 0),
+(177, 'IMANUEL SAGRAT', '', 'BITUNG VII', 3, '', 5, 0),
+(178, 'AGAPE MALENDENG', '', 'MANADO TIMUR V', 3, '', 6, 0),
+(179, 'EXODUS WATULINEY', '', 'BELANG', 3, '', 7, 0),
+(180, 'SESAWI WATUTUMOU ', '', 'KALAWAT I', 3, '', 8, 0),
+(181, 'ANDREAS BANJER', '', 'MANADO TIMUR I', 3, '', 9, 0),
+(182, 'SANGKAKALA MALALAYANG I', '', 'MANADO MALALAYANG TIMUR', 3, '', 10, 0),
+(183, 'BAPA ABRAHAM TATAARAN PATAR', '', 'TONDANO III', 3, '', 11, 0),
+(184, 'DALO SU RUATA KOMBOS TIMUR', '', 'MANADO WAWONASA KOMBOS', 3, '', 12, 0),
+(185, 'YARDEN SINGKIL KAMPUNG ISLAM', '', 'MANADO UTARA I', 3, '', 13, 0),
+(186, 'GETSEMANI BAILANG', '', 'MANADO UTARA III', 3, '', 14, 0),
+(187, 'SILOAM TATAARAN II', '', 'TONDANO VI', 3, '', 15, 0),
+(188, 'KALVARI TALAITAD', '', 'TARERAN II', 3, '', 16, 0),
+(189, 'PETRA WANGURER BARAT', '', 'BITUNG VIII', 3, '', 17, 0),
+(190, 'TORSINA KEMBES', '', 'KEMBES', 3, '', 18, 0),
+(191, 'MORIA SASARAN', '', 'TONDANO VI', 3, '', 19, 0),
+(192, 'HOSANA WAWONASA', '', 'MANADO WAWONASA', 3, '', 20, 0),
+(193, 'BAITEL ERIS', '', 'TANDENGAN', 3, '', 21, 0),
+(194, 'SION NOONGAN', '', 'LANGOWAN KELELONDEI', 3, '', 22, 0),
+(195, 'BAITANI KOPIWANGKER', '', 'LANGOWAN IV', 3, '', 23, 0),
+(196, 'KASIH KARUNIA PANCURAN', '', 'MANADO MALALAYANG TIMUR', 3, '', 24, 0),
+(197, 'SENTRUM MANADO', '', 'MANADO SENTRUM', 3, '', 25, 0),
+(198, 'EKLESIA PANDU', '', 'MANADO MAPANGET TUMPA II', 3, '', 26, 0),
+(199, 'BUKIT ZAITUN PANCURAN ATAS SINGKIL', '', 'MANADO UTARA I', 3, '', 27, 0),
+(200, 'IMANUEL BAHU', '', 'MANADO BARAT DAYA', 3, '', 28, 0),
+(201, 'EBEN HAEZER AMPRENG', '', 'LANGOWAN KELELONDEI', 3, '', 29, 0),
+(202, 'BUKIT KARMEL KAKENTURAN', '', 'BITUNG I', 3, '', 30, 0),
+(203, 'RIEDEL KEMBES', '', 'KEMBES', 3, '', 31, 0),
+(204, 'BETANIA SINDULANG SINGKIL', '', 'MANADO UTARA I', 3, '', 32, 0),
+(205, 'TASIK WANGURER', '', 'BITUNG VIII', 3, '', 33, 0),
+(206, 'BUKIT SION AIRMADIDI ATAS', '', 'AIRMADIDI III', 3, '', 34, 0),
+(207, 'MARKUS KINILOW', '', 'LOKON EMPUNG', 3, '', 35, 0),
+(208, 'BAITEL TENDEKI', '', 'BITUNG XI', 3, '', 36, 0),
+(209, 'KALVARI WANGURER', '', 'BITUNG VIII', 3, '', 37, 0),
+(210, 'SION SENTRUM SENDANGAN', '', 'KAWANGKOAN', 3, '', 38, 0),
+(211, 'YERUSALEM BATUKOTA', '', 'MANADO BARAT DAYA', 3, '', 39, 0),
+(212, 'PAULUS TITIWUNGEN WENANG MAHAKERET', '', 'MANADO TITIWUNGEN', 3, '', 40, 0),
+(213, 'TANJUNG PASIR PAAL IV', '', 'MANADO TIMUR IV', 3, '', 41, 0),
+(214, 'SILOAM DENDENGAN LUAR', '', 'MANADO TIMUR I', 3, '', 42, 0),
+(215, 'TRIFENA KAASAR', '', 'MINAWEROT I', 3, '', 43, 0),
+(216, 'MARANATHA SARONGSONG', '', 'AIRMADIDI III', 3, '', 44, 0),
+(217, 'WALETA PINELENG', '', 'PINELENG', 3, '', 45, 0),
+(218, 'KANAAN KULO', '', 'TONDANO V', 3, '', 46, 0),
+(219, 'EBEN HAEZER MASARANG', '', 'TONDANO II', 3, '', 47, 0),
+(220, 'SION TUMALUNTUNG', '', 'MINAWEROT I', 3, '', 48, 0),
+(221, 'ANUGERAH TATELU', '', 'TATELU', 3, '', 49, 0),
+(222, 'SUMBER BERKAT MALALAYANG I', '', 'MANADO MALALAYANG', 3, '', 50, 0),
+(223, 'EBEN HAEZER TAWARIKH', '', 'MANADO TENGGARA', 3, '', 51, 0),
+(224, 'SYALOM RARINGIS', '', 'LANGOWAN KELELONDEI', 3, '', 52, 0),
+(225, 'EBEN HAEZER KOMBOS', '', 'MANADO WAWONASA KOMBOS', 3, '', 53, 0),
+(226, 'MARTURIA ROONG', '', 'TONDANO II', 3, '', 54, 0),
+(227, 'BUKIT KARMEL MAPANGET', '', 'MAPANGET II', 3, '', 55, 0),
+(228, 'PAULUS TONSARU', '', 'TONDANO III', 3, '', 56, 0),
+(229, 'FIRDAUS MAYONDI TUMINTING', '', 'MANADO UTARA II', 3, '', 57, 0),
+(230, 'SION WAREMBUNGAN', '', 'WAREMBUNGAN', 3, '', 58, 0),
+(231, 'EBEN HAEZER BUMI BERINGIN', '', 'MANADO TELING', 3, '', 59, 0),
+(232, 'DAMAI BELANG I', '', 'BELANG', 3, '', 60, 0),
+(233, 'EKLESIA TATELU RONDOR', '', 'TATELU I', 3, '', 61, 0),
+(234, 'IMANUEL SENDANGAN', '', 'KAKAS I', 3, '', 62, 0),
+(235, 'ELOHIM KOLONGAN I', '', 'TOMOHON I', 3, '', 63, 0),
+(236, 'GETSEMANI SENDUK', '', 'TANAWANGKO II', 3, '', 64, 0),
+(237, 'SOLAFIDE KALI', '', 'PINELENG', 3, '', 65, 0),
+(238, 'ABRAHAM TATAARAN PATAR', '', 'TONDANO III', 3, '', 66, 0),
+(239, 'KASIH KRISTUS', '', 'MINAWEROT', 3, '', 67, 0),
+(240, 'KINILOW YERUSALEM', '', 'LOKON EMPUNG', 3, '', 68, 0),
+(241, 'SENTRUM BITUNG', '', 'BITUNG I', 3, '', 69, 0),
+(242, 'TUMOUTOU KENDIS', '', 'TONDANO I', 3, '', 70, 0),
+(243, 'ELIM SULUAN', '', 'TOMOHON V', 3, '', 71, 0),
+(244, 'PNIEL BAHU', '', 'MANADO BARAT DAYA', 3, '', 72, 0),
+(245, 'GETSEMANI PAAL IV', '', 'MANADO TIMUR IV', 3, '', 73, 0),
+(246, 'ZEBAOTH KAIRAGI', '', 'MANADO TIMUR III', 3, '', 74, 0),
+(247, 'KALVARI PURI MANADO PERMAI BENGKOL', '', 'MANADO MAPANGET TUMPA II', 3, '', 75, 0),
+(248, 'BUKIT ZAITUN MALALAYANG', '', 'MANADO MALALAYANG', 3, '', 76, 0),
+(249, 'EBEN HAEZER KOMBI', '', 'LEMBEAN KOMBI', 3, '', 77, 0),
+(250, 'EBEN HAEZER BUNTONG', '', 'MANDOLANG II', 3, '', 78, 0),
+(251, 'BAITANI PASLATEN', '', 'MINAWEROT I', 3, '', 79, 0),
+(252, 'DIASPORA PERUM BHAYANGKARA BUHA PERMAI', '', 'MANADO MAPANGET TUMPA I', 3, '', 80, 0),
+(253, 'GUNUNG ARARAT BUHA', '', 'MANADO MAPANGET TUMPA I', 3, '', 81, 0),
+(254, 'KALVARI MALALAYANG', '', 'MANADO MALALAYANG', 3, '', 82, 0),
+(255, 'PNIEL KAIRAGI', '', 'MANADO TIMUR III', 3, '', 83, 0),
+(256, 'HIDUP BARU MAESA UNIMA', '', 'TONDANO III', 3, '', 84, 0);
 
 -- --------------------------------------------------------
 
@@ -464,14 +469,7 @@ CREATE TABLE IF NOT EXISTS `userkategorinilai` (
   PRIMARY KEY (`id_userkategorinilai`),
   KEY `id_user` (`id_user`),
   KEY `id_kategorinilai` (`id_kategorinilai`)
-) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=5 ;
-
---
--- Dumping data for table `userkategorinilai`
---
-
-INSERT INTO `userkategorinilai` (`id_userkategorinilai`, `id_user`, `id_kategorinilai`) VALUES
-(4, 'tiffanymoningka', 8);
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=9 ;
 
 -- --------------------------------------------------------
 
@@ -500,10 +498,8 @@ CREATE TABLE IF NOT EXISTS `users` (
 
 INSERT INTO `users` (`username`, `password`, `namalengkap`, `id_grupakses`, `email`, `notelp`, `foto`, `id_userslevel`, `blokir`, `id_session`) VALUES
 ('administrator', '8052cd54fbfb948b9847cc151e5a52e6', 'Administrator', 1, '', '', NULL, 1, 'T', '41f83316477477a0bc03ac954c9a251b'),
-('dummytesting', '8052cd54fbfb948b9847cc151e5a52e6', 'Admin Pemuda', 3, '', '', NULL, 2, 'T', '01601da7b3a79ca9d8198fd46c5cf44a'),
-('kelotuerah', 'c7997dd5634e2e5de9e39bfe33984774', 'Juri VG 1 - Michael Tuerah', 3, '', '', NULL, 2, 'T', 'c7997dd5634e2e5de9e39bfe33984774'),
-('pntwilly', 'a73e47bcfd398c44c047863588227a95', 'Pnt Will', 3, '', '', NULL, 2, 'T', 'a73e47bcfd398c44c047863588227a95'),
-('tiffanymoningka', '409ac3a4a3639f1ddaefd4fc71eb552e', 'Pnt. Tiffany Moningka', 3, '', '', NULL, 2, 'T', '409ac3a4a3639f1ddaefd4fc71eb552e');
+('dummytesting', 'fc5e038d38a57032085441e7fe7010b0', 'Admin Pemuda', 3, '', '', NULL, 2, 'T', '01601da7b3a79ca9d8198fd46c5cf44a'),
+('ipvgserib', '6d1a76ef229dd71371d1b72bc13faa54', 'Instruktur Pertandingan', 4, '', '', NULL, 2, 'T', '79dcd4d52de308863c0f8baba83ceef0');
 
 -- --------------------------------------------------------
 
@@ -563,7 +559,7 @@ CREATE TABLE IF NOT EXISTS `wawancara` (
   `username` varchar(50) NOT NULL,
   `sudah` char(1) NOT NULL,
   PRIMARY KEY (`id_wawancara`)
-) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=20 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=4 ;
 
 --
 -- Constraints for dumped tables

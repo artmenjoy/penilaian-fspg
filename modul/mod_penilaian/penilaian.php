@@ -200,15 +200,15 @@ if (empty($_SESSION['username']) and empty($_SESSION['passuser'])) {
 									<input type=hidden name=id_kategorinilai value='<? echo "$_GET[id_kategorinilai]"; ?>'>
 <p>Jika nilai pecahan pakai tanda titik (cth: 80.5)</p>
 									<div class="form-group">
-										<label>Penilaian A:</label>
+										<label>Materi Vokal</label>
 										<input class="form-control" type=text name='content' id='penilaian' placeholder="Pecahan pakai Titik" required autocomplete="off"  >
 									</div>
 									<div class="form-group">
-										<label>Penilaian B:</label>
+										<label>Aransemen/Garapan:</label>
 										<input class="form-control" type=text name='correlation' id='penilaian' placeholder="Pecahan pakai Titik" required autocomplete="off">
 									</div>
 									<div class="form-group">
-										<label>Penilaian C:</label>
+										<label>Penyajian:</label>
 										<input class="form-control" type=text name='performance' id='penilaian' placeholder="Pecahan pakai Titik" required autocomplete="off">
 									</div>
 
