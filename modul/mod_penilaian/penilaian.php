@@ -101,9 +101,9 @@ if (empty($_SESSION['username']) and empty($_SESSION['passuser'])) {
 
 													<th>Wilayah</th>
 													<th>Nilai</th>
-													<!-- <th>Catatan</th> -->
+													<th>Catatan</th>
 													<th>Penilaian</th>
-													<th>Aksi</th>
+													<!-- <th>Aksi</th> -->
 												</tr>
 											</thead>
 											<tbody>
@@ -124,6 +124,7 @@ if (empty($_SESSION['username']) and empty($_SESSION['passuser'])) {
 													$nilainya3 = mysql_num_rows($nilainya);
 													echo "
 											<td>$nilainya2[penilaian]</td>
+											<td>$nilainya2[catatan]</td>
 											
 											<td>";
 													$cekkategori = mysql_query("SELECT kategorinilai.kategorinilai,kategorinilai.id_kategorinilai FROM userkategorinilai,kategorinilai, users where userkategorinilai.id_kategorinilai=kategorinilai.id_kategorinilai and userkategorinilai.id_user=users.username and users.username='$_SESSION[namauser]' and kategorinilai.id_kategorinilai='$_GET[id_kategorinilai]'");
@@ -132,22 +133,36 @@ if (empty($_SESSION['username']) and empty($_SESSION['passuser'])) {
 													if ($cekkategori2 > 0 or $_SESSION[leveluser] == 'admin') {
 														if ($nilainya3 < 1) {
 															//if($cekwawancara < 1){
-															echo "<a class='btn btn-success btn-xs'  href='?module=$mod&act=penilaianpeserta&id_kategorinilai=$_GET[id_kategorinilai]&id_peserta=$r[id_peserta]' title='Nilai'>Beri Nilai</a> ";
+															echo "<a class='btn btn-success btn-s'  href='?module=$mod&act=penilaianpeserta&id_kategorinilai=$_GET[id_kategorinilai]&id_peserta=$r[id_peserta]' title='Nilai'>Beri Nilai</a> ";
 															//}
 														}
+														else {
+															if ($cekcrud['hapus'] == 'y' or $_SESSION[leveluser] == 'admin') {
+															if($r[bisahapus] >0){
+
+																echo "<a href=javascript:confirmdelete('$aksi?module=$mod&act=hapus&id=$nilainya2[id_penilaian]&id_kategorinilai=$_GET[id_kategorinilai]') title='Hapus'><p class='btn btn-danger btn-s'>Hapus</p></a> ";
+															}
+														}
+															
+														}
 													}
-													echo "<td>";
-													if ($nilainya3 > 0) {
+													// AI YANG KOMEN KARNA SO SE PINDAH KOLOM
+													// echo "<td>";
+													// if ($nilainya3 > 0) {
 														/**
 												if($cekcrud['ubah']=='y' OR $_SESSION[leveluser]=='admin'){
 													echo"<a href='?module=$mod&act=edit$mod&id=$nilainya2[id_penilaian]&id_peserta=$r[id_peserta]&id_kategorinilai=$_GET[id_kategorinilai]' title='Edit'><i class='fa fa-wrench'></i></a> ";
 												}
 														 **/
-														if ($cekcrud['hapus'] == 'y' or $_SESSION[leveluser] == 'admin') {
-															echo "<a href=javascript:confirmdelete('$aksi?module=$mod&act=hapus&id=$nilainya2[id_penilaian]&id_kategorinilai=$_GET[id_kategorinilai]') title='Hapus'><i class='fa fa-times-circle text-danger'></i></a> ";
-														}
-													}
-													echo "</td>";
+														// ai siar yang hapus se pindah kolom
+														// if ($cekcrud['hapus'] == 'y' or $_SESSION[leveluser] == 'admin') {
+														// 	if($r[bisahapus] >0){
+
+														// 		echo "<a href=javascript:confirmdelete('$aksi?module=$mod&act=hapus&id=$nilainya2[id_penilaian]&id_kategorinilai=$_GET[id_kategorinilai]') title='Hapus'><i class='fa fa-times-circle text-danger'></i></a> ";
+														// 	}
+														// }
+													// }
+													// echo "</td>";
 													$no++;
 												}
 												?>

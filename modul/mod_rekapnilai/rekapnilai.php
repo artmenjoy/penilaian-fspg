@@ -90,6 +90,8 @@ if (empty($_SESSION['username']) and empty($_SESSION['passuser'])) {
 							$kategorinilai2 = mysql_fetch_array($kategorinilai);
 							?>
 
+
+
 							<div class='panel panel-default'>
 								<div class='panel-heading'>Rekap Nilai <?= $kategorinilai2[kategorinilai] ?></div>
 								<div class="panel-body">
@@ -112,6 +114,7 @@ if (empty($_SESSION['username']) and empty($_SESSION['passuser'])) {
 													}
 													?>
 													<th>Total</th>
+													<th>Aksi</th>
 												</tr>
 											</thead>
 											<tbody>
@@ -124,6 +127,7 @@ if (empty($_SESSION['username']) and empty($_SESSION['passuser'])) {
 											<td>$r[nomortalent]</td>
 											<td>$r[peserta]</td>
 											<td>$r[wilayah]</td>
+											
 											
 											
 											";
@@ -140,8 +144,19 @@ if (empty($_SESSION['username']) and empty($_SESSION['passuser'])) {
 													$bulat = round($totalavg2[rata], 2);
 													echo "<td>$bulat</td>";
 													$no++;
+													//kondisi 1 bisa dihapus
+													if($r[bisahapus]==1){
+														echo"<td><a href='modul/mod_rekapnilai/aksi_rekapnilai.php?act=disallow&id_peserta=$r[id_peserta]' class='btn btn-success btn-s'>Juri Bisa<br>Hapus Nilai</a></td>";
+													}
+
+													//kondisi 0 tidak bisa dihapus
+													else{
+														echo"<td><a href='modul/mod_rekapnilai/aksi_rekapnilai.php?act=allow&id_peserta=$r[id_peserta]' class='btn btn-danger btn-s'>Juri Tidak Bisa<br> Hapus Nilai</a></td>";
+													}
 												}
+	
 												?>
+												
 											</tbody>
 										</table>
 									</div>

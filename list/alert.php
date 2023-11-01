@@ -25,11 +25,28 @@
             <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
             Data Gagal Disimpan.
         </div>
+
+
+        <? } if($_GET[affect]=='no'){ ?>
+		<div class="alert alert-warning alert-dismissable">
+            <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+            Data sudah diubah sebelumnya.
+        </div>
+
+        <? } if($_GET[affect]=='yes'){ ?>
+		<div class="alert alert-success alert-dismissable">
+            <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+            Data berhasil diubah.
+        </div>
+
+
+
 	<? } if($_GET[affect]=='tdk2'){ ?>
 		<div class="alert alert-warning alert-dismissable">
             <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
             Data Gagal Dihapus.
         </div>
 	<? } ?>
+    
     </div>
 </div>
