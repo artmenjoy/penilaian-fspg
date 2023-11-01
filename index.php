@@ -23,11 +23,11 @@
     <script src="js/validator.js"></script>
 </head>
 
-<body background="mp.jpg">
+<body  background="assets/img/bg-login.jpg">
     <div class="container">
         <div class="row">
             <div class="col-md-4 col-md-offset-4">
-                <div class="login-panel panel panel-default">
+                <div class="login-panel panel panel-danger">
                     <div class="panel-heading" align="center">
                         <h3 class="panel-title">Login - Penilaian</h3>
                     </div>
@@ -65,7 +65,7 @@
                                             </div>
                                         </div><br>
                                         <div class="form-group">
-                                            <input type="submit" class="btn btn-lg btn-primary btn-block" value="Sign in">
+                                            <input type="submit" class="btn btn-lg btn-danger btn-block" value="Sign in">
                                         </div>
                                     </div>
                                 </div>

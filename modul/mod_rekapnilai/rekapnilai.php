@@ -107,6 +107,7 @@ if (empty($_SESSION['username']) and empty($_SESSION['passuser'])) {
 													$juri = mysql_query("select users.namalengkap from users,penilaian where penilaian.id_user=users.username and penilaian.id_kategorinilai='$_GET[id]' group by users.namalengkap");
 													while ($juri2 = mysql_fetch_array($juri)) {
 														echo "<th>Nilai By $juri2[namalengkap]</th>
+														<th>Catatan</th>;
 											";
 													}
 													?>
@@ -131,6 +132,7 @@ if (empty($_SESSION['username']) and empty($_SESSION['passuser'])) {
 														$ceknilai = mysql_query("select * from penilaian where id_user='$juri4[username]' and id_peserta='$r[id_peserta]' and id_kategorinilai='$_GET[id]'");
 														$ceknilai2 = mysql_fetch_array($ceknilai);
 														echo "<td>$ceknilai2[penilaian]</td>
+														<td>$ceknilai2[catatan]</td>
 												";
 													}
 													$totalavg = mysql_query("select avg(penilaian) as rata from penilaian where id_peserta='$r[id_peserta]' and id_kategorinilai='$_GET[id]'");
